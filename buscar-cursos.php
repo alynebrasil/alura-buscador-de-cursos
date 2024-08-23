@@ -1,8 +1,7 @@
+#!/usr/bin/env php
+
 <?php
 require 'vendor/autoload.php';
-
-Teste::teste();
-exit();
 
 use Alyne\BuscadorDeCursos\BuscadorDeCursos;
 use GuzzleHttp\Client;
